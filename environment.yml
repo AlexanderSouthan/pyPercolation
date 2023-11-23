@@ -1,0 +1,6 @@
+name: pyPercolation
+dependencies:
+  - numpy
+  - scipy
+  - tqdm
+  - matplotlib
