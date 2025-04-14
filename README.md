@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![build](https://github.com/AlexanderSouthan/pyRandomWalk/actions/workflows/main.yml/badge.svg)](https://github.com/AlexanderSouthan/pyPercolation/actions/workflows/main.yml)
+[![build workflow](https://github.com/AlexanderSouthan/pyPercolation/actions/workflows/python-package.yml/badge.svg)](https://github.com/AlexanderSouthan/pyPercolation/actions/workflows/python-package.yml)
 [![codecov](https://codecov.io/gh/AlexanderSouthan/pyPercolation/branch/master/graph/badge.svg?token=X0M18SSK8S)](https://codecov.io/gh/AlexanderSouthan/pyPercolation)
 
 # pyPercolation
